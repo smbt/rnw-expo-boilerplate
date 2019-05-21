@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pokedex",
-    "slug": "pokedex",
+    "name": "rnw expo boilerplate",
+    "slug": "-",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
